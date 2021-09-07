@@ -4,6 +4,7 @@ from tkinter import *
 from tkcalendar import Calendar
 
 root = Tk()
+# Download icons in '.ico' format from https://iconarchive.com/"
 root.title("GUI CALENDAR")
 root.geometry("600x400+300+30")
 root.config(bg = "olivedrab2")
