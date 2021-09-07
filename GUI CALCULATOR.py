@@ -3,6 +3,7 @@
 from tkinter import *
 
 root = Tk()
+# Download icons in '.ico' format from https://iconarchive.com/"
 root.iconbitmap("D:/PYTHON MODULES/TKINTER/TKINTER PROJECTS/ICONs/Calculator.ico")
 root.title("PYTHON GUI CALCULATOR")
 root.geometry("340x378")
