@@ -4,6 +4,7 @@ from tkinter import *
 from math import *
 
 root = Tk()
+# Download icons in '.ico' format from https://iconarchive.com/"
 root.iconbitmap("D:/PYTHON MODULES/TKINTER/TKINTER PROJECTS/ICONs/Calculator.ico")
 root.title("PYTHON GUI SCIENTIFIC CALCULATOR")
 root.geometry("600x625+50+40")
